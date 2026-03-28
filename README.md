@@ -2,6 +2,8 @@
 
 A modern, professional admin dashboard built with HTML, CSS, and vanilla JavaScript. Features a clean design with real-world data, consistent color scheme, and interactive UI elements.
 
+![Demo Screenshot](./images/demoss.png)
+
 ## 🎨 Features
 
 - **Responsive Grid Layout** - Flexible 2-column layout with sidebar navigation
